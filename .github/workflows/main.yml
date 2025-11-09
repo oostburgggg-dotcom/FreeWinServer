@@ -1,0 +1,14 @@
+            - name: VPN Connect using Forticlient VPN
+  # You may pin to the exact commit or the version.
+  # uses: myusp/connect-forticlient-vpn@26f75a8fdbac85a8e1f7d639ea8c44cc1e61324b
+  uses: myusp/connect-forticlient-vpn@v1.0.0
+  with:
+    # VPN server IP address
+    vpn_ip: 
+    # VPN server port
+    vpn_port: 
+    # VPN username
+    vpn_username: 
+    # VPN password
+    vpn_password: 
+          
